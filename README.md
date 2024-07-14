@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">📚 Currently in my fourth year at ESI, striving for excellence.<br>⚡ Passionate about continual skill development, utilizing my free time effectively.<br>🔍 Open to exciting projects and opportunities.<br>💻 Enthusiastic about web development and data science.</p>
+<p align="left">📚 Currently in my fifth year at ESI, striving for excellence.<br>⚡ Passionate about continual skill development, utilizing my free time effectively.<br>🔍 Open to exciting projects and opportunities.<br>💻 Enthusiastic about web development and data science.</p>
 
 ###
 
