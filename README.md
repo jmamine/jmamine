@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">📚 Currently in my fifth year at ESI, striving for excellence.<br>⚡ Passionate about continual skill development, utilizing my free time effectively.<br>🔍 Open to exciting projects and opportunities.<br>💻 Enthusiastic about web development and data science.</p>
+<p align="left">
+🚀 <b>Software Engineer</b> & <b>Full-Stack Developer</b> specializing in Cloud-Native systems.<br>
+📡 Currently orchestrating <b>Private 5G networks</b> (IMS, VoNR) and Edge/Cloud optimization at ALTEN.<br>
+💻 Expertise in the <b>MERN Stack</b> (MongoDB, Express, React, Node.js) for scalable web solutions.<br>
+⚙️ Focused on <b>Distributed Systems</b>, CI/CD pipelines, and high-performance architecture.<br>
+☁️ Scaling production environments across <b>AWS, GCP, and Azure</b>.
+</p>
 
 ###
 
